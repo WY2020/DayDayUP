@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">天天向上</string>
+    <string name="main_name">DayDayUP</string>
+    <string name="settings">刷新</string>
+    <string name="message">App介绍</string>
+    <string name="editable">编辑</string>
+</resources>

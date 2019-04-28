@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#c24774</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="showActivityColor">#33a2da</color>
+    <color name="showActivityEdit">#00000000</color>
+    <color name="ScrollingButton">#CDD849</color>
+    <color name="ScrollingDialog">#BDBDBD</color>
+</resources>
